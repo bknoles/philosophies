@@ -17,9 +17,9 @@ A technical consultant offers two primary benefits to clients
 	5. Respond in a predictably prompt manner
 
 2. ### Teaching and educating is a fundamental value
-	I personally believe that teaching is a great marker for expertise.  I have found that those most willing to teach and mentor me are the ones who enjoy thoroughly understanding what they will teach.
+	Teaching is a great marker for expertise.  I have found that those most willing to teach and mentor me are the ones who enjoy thoroughly understanding what they will teach.
 	
-	I enjoy what I do, so I believe in applying that attitude to the client relationship.  This does not mean that I teach a client how to code.  It does mean that the client should thoroughly understand how to use the tools that I deliver and how they relate to their business goals.
+	Since I enjoy my profession, I believe in applying that attitude to the client relationship.  This does not mean that I teach a client how to code.  It does mean that the client should thoroughly understand how to use the tools that I deliver and how they relate to their business goals.
 	
 	A great side benefit to this attitude is that teaching requires you to synthesize your knowledge.  You must understand something yourself in order to teach it.  Therefore, by teaching, your own expertise grows. 
 
